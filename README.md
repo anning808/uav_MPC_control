@@ -19,6 +19,5 @@ git clone https://github.com/IDCARDBORING/uav_MPC_control.git
 ### Run
 
 ```
-cd high_mpc
 python sim.py
 ```
