@@ -3,8 +3,7 @@ Title: Drone Tracking with MPC Method
 Content: This repository includes a drone kinematic model and uses MPC to track position, orientation, and velocity at time t. Trajectory is plotted and algorithm tested.
 
 ### Demonstrations
-[![Method]](https://www.youtube.com/watch?v=BD4AvWhneAQ)
-
+[![Method](/figures/mpc.png)](https://youtu.be/BD4AvWhneAQ)
 
 
 
